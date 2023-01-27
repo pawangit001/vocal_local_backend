@@ -4,7 +4,7 @@ import {
   getUserById,
   login,
   signup,
-} from "../controllers/user-controllers";
+} from "../controllers/user-controllers.js";
 
 const userRouter = Router();
 
